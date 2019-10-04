@@ -1,4 +1,4 @@
-var textContents = '';
+let textContents = '';
 
 chrome.runtime.onMessage.addListener(
     function (request, sender, sendResponse) {
