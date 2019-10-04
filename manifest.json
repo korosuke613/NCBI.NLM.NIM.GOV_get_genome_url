@@ -1,5 +1,5 @@
 {
-    "name": "名前",
+    "name": "get_genome_url_chrome_extention",
     "manifest_version": 2,
     "version": "1.0",
     "browser_action": {
